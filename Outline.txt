@@ -1,0 +1,58 @@
+Outline
+
+Dir and Files
+* fs.reanme
+* fs.realpath
+* fs.access
+* fs.chmod
+* fs.chown
+* fs.stat
+
+Directory
+* fs.mkdir (create directory)
+* fs.mktemp (create temp directory) 
+* fs.rename (rename directory)
+* fs.rmdir (delete directory)
+* fs.readdir (read directory)
+* fs.realpath (path of directory)
+* fs.access 
+* fs.chmod
+* fs.chown
+* fs.stat
+* 
+
+Files
+## FD
+* change file timestamp
+* change permissions and acesss
+* change file owner
+* read file
+* file's stat
+* read some byts of file, truncate
+* write file
+
+## W/T FD
+* append or write to file
+* rename
+* change file owner
+* change file timestamp
+* check if file exists
+* check if file is readable
+* check if file is writable
+* check if file is excutable
+* change file permissions
+* linking file or make new file for file
+* open file
+* read file
+* realpath
+* symlink
+* truncate
+* unlink
+* watch file changes or fs.watch
+
+## Stream
+* read stream
+* write stream
+
+## Buffer
+

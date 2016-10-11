@@ -1,4 +1,4 @@
-var fs = require('fs')
+var fs = require('fs');
 
 fs.mkdir('/tmp/example-dir', function (err) {
   if (err) throw err;
